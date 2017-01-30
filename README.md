@@ -18,7 +18,8 @@ Contributions most welcome.
 10. [Journals](#journals)
 11. [Competitions](#competitions)
 12. [Movies](#movies)
-13. [Misc](#misc)
+13. [Newsletters](#newsletters)
+12. [Misc](#misc)
 
 ![AI](http://www.telegraph.co.uk/content/dam/film/ex-machina/ex-machina-lead-xlarge.jpg)
 
@@ -172,6 +173,14 @@ Contributions most welcome.
 * [The Terminator](http://www.imdb.com/title/tt0088247/)
 * [Transcendence](http://www.imdb.com/title/tt2209764/)
 
+# Newsletters
+
+* [AI Weekly](http://aiweekly.co/) - Weekly collection of the best news and resources on Artificial Intelligence and Machine Learning. 
+* [Deep Hunt](https://www.getrevue.co/profile/hindupuravinash) - weekly newsletter on the hottest things in Artificial Intelligence 
+* [Deep Learning Weekly](http://digest.deeplearningweekly.com/) - Brings you all that's new and exciting from academia to the grubby depth of industry
+* [Emergent // Future](http://blog.algorithmia.com/emergent-future-newsletter/)
+* [Machine Learning Weekly](http://mlweekly.com/) - Hand-curated newsletter about machine learning and deep learning
+* [The Wild Week in AI](https://www.getrevue.co/profile/wildml) - A weekly AI & Deep Learning newsletter
 
 # Misc
 
